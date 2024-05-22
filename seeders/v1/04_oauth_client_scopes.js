@@ -1,5 +1,5 @@
 const { SCOPE_TYPE } = require('esm')(module /* , options */)(
-  '../utils/constants'
+  '../../utils/constants'
 );
 
 module.exports = {
